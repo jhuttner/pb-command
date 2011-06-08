@@ -2,7 +2,9 @@
 
 ## Usage
 
-Type 'store' and look at the list of your recent commands. Select one, and then hit enter.  It will go into your Mac's copy
+    01:~ jhuttner$ store
+
+Look at the list of your recent commands. Select one, and then hit enter.  It will go into your Mac's copy
 buffer provided that you have a reverse SSH tunnel setup from your remote box to your Mac.
 
 Yeah yeah, I know this is a rather specific setup for people that develop on a cloud from a Mac.  Sorry.
