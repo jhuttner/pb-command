@@ -1,4 +1,13 @@
-Make sure to get the pathing correct.  I have /home/jhuttner/bin in my path.
+# PB-command
+
+## Purpose
+
+Look at a list of your recent commands, select one, and then hit enter.  It will go into your Mac's copy
+buffer provided that you have a reverse SSH tunnel setup from your remote box.  
+
+Yeah yeah, I know this is a rather specific setup for people that develop on a cloud from a Mac.  Sorry.
+
+## Make sure to get the pathing correct.  I have /home/jhuttner/bin in my path.
 
 01:pb-command(master) jhuttner$ pwd
 /home/jhuttner/git-repos/pb-command
