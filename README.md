@@ -1,9 +1,9 @@
-# PB-command
+# PB-command -- copy recent commands to your Mac buffer remotely.
 
 ## Purpose
 
 Look at a list of your recent commands, select one, and then hit enter.  It will go into your Mac's copy
-buffer provided that you have a reverse SSH tunnel setup from your remote box.  
+buffer provided that you have a reverse SSH tunnel setup from your remote box to your Mac.
 
 Yeah yeah, I know this is a rather specific setup for people that develop on a cloud from a Mac.  Sorry.
 
