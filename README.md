@@ -19,5 +19,6 @@ Get your paths correct:
 
     01:pb-command(master) jhuttner$ pwd
     /home/jhuttner/git-repos/pb-command
-    01:pb-command(master) jhuttner$ ln -s /home/jhuttner/git-repos/pb-command/pbcommand.sh /home/jhuttner/bin/pbcommand
-    01:pb-command(master) jhuttner$ ln -s /home/jhuttner/git-repos/pb-command/do_pbcommand.py /home/jhuttner/bin/do_pbcommand.py
+    01:pb-command(master) jhuttner$ ln -s ~/git-repos/pb-command/pbcommand.sh ~/bin/pbcommand
+    01:pb-command(master) jhuttner$ ln -s ~/git-repos/pb-command/do_pbcommand.py ~/bin/do_pbcommand.py
+    01:pb-command(master) jhuttner$ touch ~/pb-command.append_only ~/pb-command.buffer ~/pb-command.history ~/pb-command.interrupt_sent
