@@ -11,11 +11,11 @@ Note: This is a rather specific setup for people that develop on a cloud from a 
 
 ## Install
   
-Take a look at the two files in the repo.  Make sure you have your paths as you want them.
+Take a look at the .py and .sh files in the repo.  Make sure you have your paths as you want them, and that the shebang lines are correct.
 
 You will probably have to 'touch' the four files, or Python will bark.
 
-Get your paths correct
+Get your paths correct:
 
     01:pb-command(master) jhuttner$ pwd
     /home/jhuttner/git-repos/pb-command
