@@ -69,7 +69,7 @@ def main(args):
     fobj.write(cmd_to_store)
     fobj.close()
 
-  if mode == 'stash':
+  if mode == 'stash' or mode == 'store':
     fobj = open(long_term_store, 'a')
     fobj.write(cmd_to_store)
     fobj.write('\n')
