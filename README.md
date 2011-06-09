@@ -11,7 +11,7 @@ Note: This is a rather specific setup for people that develop on a cloud from a 
 
 ## Install
   
-Take a look at the .py and .sh files in the repo.  Make sure you have your paths as you want them, and that the shebang lines are correct.
+Take a look at the .py and .sh files.  Make sure you have your paths as you want them, and that the shebang lines are correct.
 
 You will probably have to 'touch' the four files, or Python will bark.
 
