@@ -16,6 +16,7 @@ Take a look at the two files in the repo.  Make sure you have your paths as you 
 You will probably have to 'touch' the four files, or Python will bark.
 
 Get your paths correct
+
     01:pb-command(master) jhuttner$ pwd
     /home/jhuttner/git-repos/pb-command
     01:pb-command(master) jhuttner$ ln -s /home/jhuttner/git-repos/pb-command/pbcommand.sh /home/jhuttner/bin/pbcommand
